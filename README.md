@@ -5,3 +5,4 @@ In this Project:->
 4. Validation   Handling error message
 5. Unit Tests:, Movie List,  for success, empty and fail
 6. UI/UX Considerations:, Smooth image loading  and activity indicator
+Note:- Development on Xcode15.3
